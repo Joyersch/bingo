@@ -80,7 +80,7 @@
 				<input type="checkbox" bind:checked={darkMode} />
 				<span class="slider"></span>
 			</label>
-			<span>{darkMode ? "Dark Mode" : "Light Mode"}</span>
+			<span>Dark Mode</span>
 		</div>
 	</div>
 </div>
